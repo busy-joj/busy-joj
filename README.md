@@ -1,5 +1,5 @@
-<h2 align=center>Hi there 👋</h2> 
-<p align=center>안녕하세요:)</p>
+<h2 align=center>👋WELCOM👋</h2> 
+<p align=center>Frontend Developer, 정윤정입니다.</p>
 <br/>
 <h2 align=center>🛠️SKILL STACKS🛠️</h2>
 <div align=center>
