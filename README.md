@@ -2,7 +2,7 @@
 <div align=center>
   <p>Frontend Developer, 정윤정입니다.</p>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busy-joj&show_icons=true&theme=dracula)
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busy-joj&show_icons=true&theme=dracula) -->
 
 
 </div>
